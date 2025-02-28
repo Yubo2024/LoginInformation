@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginInformation</string>
+    <string name="login">Login</string>
+    <string name="please_input_your_age">Please input your age</string>
+    <string name="please_input_name">Please input Name</string>
+    <string name="logininterface">LoginInterface</string>
+    <string name="user_info">User Info</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+</resources>
